@@ -48,6 +48,7 @@ LANGMAP_GLOBAL = {
     'украї́нська мо́ва': '',  
     'Thai': '',
     'Arabic': '',
+    'Persian': '',
     'Hindi': '',
     'Malayalam': '',
     'Tamil': '',

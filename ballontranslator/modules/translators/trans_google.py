@@ -157,6 +157,7 @@ class TransGoogle(BaseTranslator):
         self.lang_map["украї́нська мо́ва"] = "uk"
         self.lang_map["Thai"] = "th"
         self.lang_map["Arabic"] = "ar"
+        self.lang_map["Persian"] = "fa"
         self.lang_map["Hindi"] = "hi"
         self.lang_map["Malayalam"] = "ml"
         self.lang_map["Tamil"] = "ta"
